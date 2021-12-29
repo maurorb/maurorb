@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maurorb
-- 👀 I’m interested in Data Science and Artificial Inteligence
+- 👀 I’m interested in Data Science and Artificial Inteligence. Also studying Simulation!
 - 🌱 I’m currently learning: well, see above...
 
 <!---
